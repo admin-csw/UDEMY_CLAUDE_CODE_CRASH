@@ -1,0 +1,200 @@
+[
+  {
+    "id": "prettier-formatter",
+    "name": "Prettier Auto-Formatter",
+    "description": "Automatically formats TypeScript files using Prettier after every file write, ensuring consistent code style across your project.",
+    "category": "Code Quality",
+    "repositoryUrl": "https://github.com/example/prettier-hook",
+    "stars": 245,
+    "lastUpdated": "2025-10-15T12:00:00Z",
+    "tags": ["formatting", "typescript", "prettier"],
+    "author": "devtools"
+  },
+  {
+    "id": "eslint-validator",
+    "name": "ESLint Pre-validation",
+    "description": "Runs ESLint before tool execution to catch linting issues early and prevent code quality degradation.",
+    "category": "Code Quality",
+    "repositoryUrl": "https://github.com/example/eslint-hook",
+    "stars": 189,
+    "lastUpdated": "2025-10-18T09:30:00Z",
+    "tags": ["linting", "javascript", "validation"],
+    "author": "lint-master"
+  },
+  {
+    "id": "test-runner",
+    "name": "Automated Test Runner",
+    "description": "Automatically runs Jest tests after file modifications to ensure changes don't break existing functionality.",
+    "category": "Testing",
+    "repositoryUrl": "https://github.com/example/test-runner-hook",
+    "stars": 312,
+    "lastUpdated": "2025-10-20T14:15:00Z",
+    "tags": ["testing", "jest", "automation"],
+    "author": "test-guru"
+  },
+  {
+    "id": "git-auto-commit",
+    "name": "Git Auto-Commit",
+    "description": "Creates git commits automatically after successful file writes with AI-generated commit messages.",
+    "category": "Git/Version Control",
+    "repositoryUrl": "https://github.com/example/git-auto-commit",
+    "stars": 428,
+    "lastUpdated": "2025-10-22T16:45:00Z",
+    "tags": ["git", "automation", "commits"],
+    "author": "git-wizard"
+  },
+  {
+    "id": "slack-notifier",
+    "name": "Slack Notification Hook",
+    "description": "Sends Slack notifications when Claude Code requires your input or completes long-running tasks.",
+    "category": "Notifications",
+    "repositoryUrl": "https://github.com/example/slack-hook",
+    "stars": 156,
+    "lastUpdated": "2025-10-19T11:20:00Z",
+    "tags": ["notifications", "slack", "productivity"],
+    "author": "notify-pro"
+  },
+  {
+    "id": "security-scanner",
+    "name": "Security Vulnerability Scanner",
+    "description": "Scans code changes for common security vulnerabilities and blocks unsafe patterns before execution.",
+    "category": "Security",
+    "repositoryUrl": "https://github.com/example/security-scanner",
+    "stars": 567,
+    "lastUpdated": "2025-10-23T08:00:00Z",
+    "tags": ["security", "scanning", "validation"],
+    "author": "sec-ops"
+  },
+  {
+    "id": "file-logger",
+    "name": "Comprehensive File Logger",
+    "description": "Logs all file operations to a detailed audit trail for compliance and debugging purposes.",
+    "category": "Logging",
+    "repositoryUrl": "https://github.com/example/file-logger",
+    "stars": 203,
+    "lastUpdated": "2025-10-17T13:30:00Z",
+    "tags": ["logging", "audit", "tracking"],
+    "author": "log-keeper"
+  },
+  {
+    "id": "python-black",
+    "name": "Python Black Formatter",
+    "description": "Applies Black formatting to Python files automatically, maintaining PEP 8 compliance.",
+    "category": "Code Quality",
+    "repositoryUrl": "https://github.com/example/black-hook",
+    "stars": 334,
+    "lastUpdated": "2025-10-21T10:15:00Z",
+    "tags": ["python", "formatting", "black"],
+    "author": "python-dev"
+  },
+  {
+    "id": "production-guard",
+    "name": "Production File Guard",
+    "description": "Blocks modifications to production configuration files and sensitive directories to prevent accidental changes.",
+    "category": "Security",
+    "repositoryUrl": "https://github.com/example/production-guard",
+    "stars": 412,
+    "lastUpdated": "2025-10-24T15:00:00Z",
+    "tags": ["security", "protection", "validation"],
+    "author": "safety-first"
+  },
+  {
+    "id": "discord-webhook",
+    "name": "Discord Webhook Notifier",
+    "description": "Sends formatted notifications to Discord channels when important events occur during Claude Code sessions.",
+    "category": "Notifications",
+    "repositoryUrl": "https://github.com/example/discord-hook",
+    "stars": 178,
+    "lastUpdated": "2025-10-16T09:45:00Z",
+    "tags": ["discord", "notifications", "webhooks"],
+    "author": "discord-dev"
+  },
+  {
+    "id": "typescript-checker",
+    "name": "TypeScript Type Checker",
+    "description": "Runs TypeScript compiler checks after code modifications to catch type errors immediately.",
+    "category": "Code Quality",
+    "repositoryUrl": "https://github.com/example/ts-checker",
+    "stars": 289,
+    "lastUpdated": "2025-10-20T12:30:00Z",
+    "tags": ["typescript", "type-checking", "validation"],
+    "author": "ts-expert"
+  },
+  {
+    "id": "github-pr-creator",
+    "name": "GitHub PR Auto-Creator",
+    "description": "Automatically creates GitHub pull requests with AI-generated descriptions after completing feature branches.",
+    "category": "Git/Version Control",
+    "repositoryUrl": "https://github.com/example/pr-creator",
+    "stars": 521,
+    "lastUpdated": "2025-10-25T07:20:00Z",
+    "tags": ["github", "pull-requests", "automation"],
+    "author": "github-tools"
+  },
+  {
+    "id": "env-validator",
+    "name": "Environment Variable Validator",
+    "description": "Validates environment variables against schema and prevents deployment with missing or invalid configuration.",
+    "category": "Security",
+    "repositoryUrl": "https://github.com/example/env-validator",
+    "stars": 145,
+    "lastUpdated": "2025-10-14T16:00:00Z",
+    "tags": ["security", "environment", "validation"],
+    "author": "config-pro"
+  },
+  {
+    "id": "bundle-analyzer",
+    "name": "Bundle Size Analyzer",
+    "description": "Analyzes bundle size changes and warns when modifications significantly increase the application bundle.",
+    "category": "Other/Utilities",
+    "repositoryUrl": "https://github.com/example/bundle-analyzer",
+    "stars": 267,
+    "lastUpdated": "2025-10-19T14:50:00Z",
+    "tags": ["performance", "bundling", "analysis"],
+    "author": "perf-team"
+  },
+  {
+    "id": "cypress-e2e",
+    "name": "Cypress E2E Test Runner",
+    "description": "Triggers Cypress end-to-end tests after code changes to ensure UI functionality remains intact.",
+    "category": "Testing",
+    "repositoryUrl": "https://github.com/example/cypress-hook",
+    "stars": 398,
+    "lastUpdated": "2025-10-22T11:25:00Z",
+    "tags": ["testing", "cypress", "e2e"],
+    "author": "qa-team"
+  },
+  {
+    "id": "documentation-generator",
+    "name": "Auto Documentation Generator",
+    "description": "Generates JSDoc comments and README updates automatically based on code changes.",
+    "category": "Other/Utilities",
+    "repositoryUrl": "https://github.com/example/doc-generator",
+    "stars": 223,
+    "lastUpdated": "2025-10-18T13:40:00Z",
+    "tags": ["documentation", "automation", "jsdoc"],
+    "author": "doc-writer"
+  },
+  {
+    "id": "metric-tracker",
+    "name": "Development Metrics Tracker",
+    "description": "Tracks and logs development metrics including file changes, execution time, and tool usage statistics.",
+    "category": "Logging",
+    "repositoryUrl": "https://github.com/example/metrics-tracker",
+    "stars": 134,
+    "lastUpdated": "2025-10-15T10:00:00Z",
+    "tags": ["metrics", "analytics", "tracking"],
+    "author": "analytics-team"
+  },
+  {
+    "id": "dependency-checker",
+    "name": "Dependency Security Checker",
+    "description": "Scans package dependencies for known vulnerabilities using npm audit or similar tools.",
+    "category": "Security",
+    "repositoryUrl": "https://github.com/example/dep-checker",
+    "stars": 445,
+    "lastUpdated": "2025-10-23T09:15:00Z",
+    "tags": ["security", "dependencies", "npm"],
+    "author": "security-team"
+  }
+]
